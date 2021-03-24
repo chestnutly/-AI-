@@ -11,6 +11,9 @@
 
 https://aistudio.baidu.com/aistudio/projectdetail/1687287?channelType=0&channel=0
 
+
+
+
 使用方式：
 
 **步骤如下：
@@ -24,6 +27,8 @@ https://aistudio.baidu.com/aistudio/projectdetail/1687287?channelType=0&channel=
     PaddlePaddle框架，AI Studio平台已经默认安装最新版2.0。
 
     PaddleNLP，深度兼容框架2.0，是飞桨框架2.0在NLP领域的最佳实践。
+    
+    
 
 训练集展示：
 ['0', '1']
@@ -47,7 +52,12 @@ https://aistudio.baidu.com/aistudio/projectdetail/1687287?channelType=0&channel=
 
 ['人总是贪婪的，就像最开始我只想知道你的名字', '0']
 
+
+
+
+
 测试效果展示：
+
 Data: 我跟你说星星很好看，你跟别人说星星很好看，我以后都不会再跟你说星星很好看了。别人跟你说星星很好看，你跟我说星星很好看，星星就没那么好看了 	 网抑云等级: 3
 
 Data: 我没有取悦你的天分 但我比谁都认真。 	 网抑云等级: 3
